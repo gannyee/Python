@@ -1,5 +1,7 @@
 #给你两个正整数a,b,  输出它们公约数的个数。
 
+a = 4483378
+b = 884324
 def divisionCount(s):
     division = []
     for i in range(1,s + 1):
